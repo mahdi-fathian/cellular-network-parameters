@@ -13,7 +13,7 @@ An Android application used to show different cellular network parameters.
 (Code-Gps-Location-Map-2)
 
 سپس به پارامتر های دیگر پرداختم که داخل بخش کد های پروژه مشخص هست و چون پارامتر های خواسته شده کمی سخت بود با سرچ در یوتیوب و گوگل به نتایجی رسیدم.
-(Code-CellInfo)
+(Code-CeliInfo)
 
 موارد تکمیلی توضیح پروژه و منابع استفاده شده به صورت کامل در بخش گزارش پروژه آمده است.
 
