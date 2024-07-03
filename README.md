@@ -13,9 +13,13 @@ An Android application used to show different cellular network parameters.
 سپس به پارامتر های دیگر پرداختم که داخل بخش کد های پروژه مشخص هست و چون پارامتر های خواسته شده کمی سخت بود با سرچ در یوتیوب و گوگل به نتایجی رسیدم.
 
 موارد تکمیلی توضیح پروژه و منابع استفاده شده به صورت کامل در بخش گزارش پروژه آمده است.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 در نهایت هم بخشی از تصاویر پروژه را در زیر میتوان دید:
 
+<img width="323" alt="Capture" src="https://github.com/mahdi-fathian/cellular-network-parameters/assets/74285697/d3bb236d-7139-4312-805f-f87cd756eb0d">
 
+<img width="258" alt="Capture2" src="https://github.com/mahdi-fathian/cellular-network-parameters/assets/74285697/14ab0d4f-bf85-4667-b61a-a13b319d550e">
 
+<img width="107" alt="Capture4" src="https://github.com/mahdi-fathian/cellular-network-parameters/assets/74285697/c55ccf38-c652-41de-9d33-de9b3b380870">
 
