@@ -19,7 +19,9 @@ An Android application used to show different cellular network parameters.
 
 <img width="323" alt="Capture" src="https://github.com/mahdi-fathian/cellular-network-parameters/assets/74285697/d3bb236d-7139-4312-805f-f87cd756eb0d">
 
+
 <img width="258" alt="Capture2" src="https://github.com/mahdi-fathian/cellular-network-parameters/assets/74285697/14ab0d4f-bf85-4667-b61a-a13b319d550e">
+
 
 <img width="107" alt="Capture4" src="https://github.com/mahdi-fathian/cellular-network-parameters/assets/74285697/c55ccf38-c652-41de-9d33-de9b3b380870">
 
