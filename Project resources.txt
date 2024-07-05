@@ -31,7 +31,7 @@ https://www.geeksforgeeks.org/how-to-implement-current-location-button-feature-i
 https://www.geeksforgeeks.org/how-to-implement-current-location-button-feature-in-google-maps-in-android/
 
 https://www.youtube.com/watch?v=gc1oMI-0Qh0
-https://github.com/scriptator/cellinfo
+
 
 https://www.youtube.com/watch?v=hojwvo99584
 
